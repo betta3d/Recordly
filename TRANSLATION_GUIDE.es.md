@@ -10,7 +10,14 @@ Todos los archivos de idioma se encuentran en:
 
 - `src/i18n/locales/en/`
 - `src/i18n/locales/es/`
+- `src/i18n/locales/fr/`
+- `src/i18n/locales/de/`
+- `src/i18n/locales/it/`
+- `src/i18n/locales/nl/`
+- `src/i18n/locales/ko/`
+- `src/i18n/locales/pt-BR/`
 - `src/i18n/locales/zh-CN/`
+- `src/i18n/locales/zh-TW/`
 
 Cada idioma tiene los mismos archivos de espacios de nombres:
 

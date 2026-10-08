@@ -18,7 +18,7 @@ Configura `OWNER_USER_ID` con el ID de usuario de Supabase del propietario del d
 
 - Endpoint: `http://localhost:8787/api/upload`
 
-El Worker valida los tokens de acceso de Supabase antes de aceptar las cargas. `API_SECRET` sigue siendo una contraseña del servidor para administrar la biblioteca. Solo para pruebas locales aisladas se puede habilitar una alternativa de carga mediante ese secreto, configurando `ALLOW_API_SECRET_UPLOADS=true`; no la habilites en producción.
+El Worker valida los tokens de acceso de Supabase para las cargas. En instalaciones autoalojadas, las solicitudes `POST /api/upload` también pueden autenticarse con una cookie de sesión válida del panel (`voom_session`), sin un token de acceso de Supabase. `API_SECRET` sigue siendo una contraseña del servidor para administrar la biblioteca. Solo para pruebas locales aisladas se puede habilitar una alternativa de carga mediante ese secreto, configurando `ALLOW_API_SECRET_UPLOADS=true`; no la habilites en producción.
 
 Cualquier persona con un enlace válido puede ver el video y dejar comentarios con marcas de tiempo utilizando un nombre visible; no se requiere una cuenta para comentar. Se mantienen activos los límites de frecuencia por IP y los límites de longitud de los comentarios.
 
