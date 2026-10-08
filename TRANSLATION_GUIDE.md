@@ -1,3 +1,5 @@
+Language: EN | [Español](TRANSLATION_GUIDE.es.md)
+
 # Translation Guide
 
 This project uses a namespace-based i18n setup so contributors can localize safely without changing app logic.

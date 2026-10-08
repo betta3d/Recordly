@@ -37,7 +37,7 @@ Configura `SUPABASE_URL` como una variable del Worker. La configuración sin ide
 
 ## Atribución
 
-Este servicio es una adaptación de un proyecto de código abierto con licencia MIT. El aviso original de derechos de autor y permisos requerido se conserva en [`../LICENSE`](../LICENSE) y en `THIRD_PARTY_NOTICES.md`, en la raíz de Recordly. Las páginas del producto utilizan la marca Recordly; la atribución legal debe mantenerse en las copias distribuidas.
+Este servicio es una adaptación de un proyecto de código abierto con licencia MIT. El aviso original de derechos de autor y permisos requerido se conserva en [`../LICENSE`](../LICENSE) y en los [avisos de terceros en español](../../../THIRD_PARTY_NOTICES.es.md), que incluyen el texto original de la licencia. Las páginas del producto utilizan la marca Recordly; la atribución legal debe mantenerse en las copias distribuidas.
 
 ## Organización del código fuente del Worker
 

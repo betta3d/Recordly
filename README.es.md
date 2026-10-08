@@ -359,6 +359,11 @@ Mantén cada pull request centrado en su objetivo, prueba los flujos de grabaci�
 
 Consulta las directrices en [CONTRIBUTING.es.md](CONTRIBUTING.es.md).
 
+Documentación para colaboradores:
+
+- [Guía de traducción](TRANSLATION_GUIDE.es.md)
+- [Publicación de versiones](RELEASING.es.md)
+
 ---
 
 # Comunidad
@@ -396,6 +401,8 @@ Los pull requests son bienvenidos.
 # Licencia
 
 Recordly se distribuye bajo la licencia **AGPL 3.0**.
+
+Consulta también los [avisos de terceros](THIRD_PARTY_NOTICES.es.md).
 
 ---
 

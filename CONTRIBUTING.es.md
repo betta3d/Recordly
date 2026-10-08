@@ -55,11 +55,18 @@ Si encuentras un error o quieres solicitar una nueva función, abre un issue en 
 
 ## Guía de estilo
 
+Guías adicionales:
+
+- [Traducción de la aplicación](TRANSLATION_GUIDE.es.md)
+- [Publicación de versiones](RELEASING.es.md)
+
 - Escribe mensajes de commit claros, concisos y descriptivos.
 - Incluye comentarios cuando sean necesarios para explicar código complejo.
 
 ## Licencia
 
 Al contribuir a este proyecto, aceptas que tus aportes se distribuyan bajo la [GNU Affero General Public License v3.0](./LICENSE.md).
+
+Consulta también los [avisos de terceros](THIRD_PARTY_NOTICES.es.md).
 
 ¡Gracias por tus contribuciones!
