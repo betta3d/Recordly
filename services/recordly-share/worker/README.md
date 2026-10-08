@@ -1,3 +1,5 @@
+Language: EN | [Español](README.es.md)
+
 # Recordly Share
 
 Recordly Share is the self-hosted video publishing and review service used by Recordly. It runs as a Cloudflare Worker with R2 video storage, D1 metadata, range streaming, a responsive viewer, timestamped comments, reactions, passwords, expiration, and a private recording library.
