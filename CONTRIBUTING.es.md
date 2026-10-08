@@ -8,7 +8,7 @@ Idioma: [EN](CONTRIBUTING.md) | Español
 - Optimización de la exportación
 - Grabación de pantalla nativa para Linux
 - Aportes de fondos de pantalla
-- Extensiones (marcos de dispositivos, efectos de clic y puntos de integración con el renderizado; consulta [EXTENSIONS.md](./EXTENSIONS.md), en inglés)
+- Extensiones (marcos de dispositivos, efectos de clic y puntos de integración con el renderizado; consulta [EXTENSIONS.es.md](./EXTENSIONS.es.md))
 
 ## Cómo contribuir
 

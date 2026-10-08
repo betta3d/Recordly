@@ -69,7 +69,7 @@ Recordly cuenta con un sistema de extensiones impulsado por la comunidad. Cualqu
 
 Explora e instala extensiones de la comunidad desde el [Marketplace de Recordly](https://marketplace.recordly.dev/extensions).
 
-Si el Marketplace no está disponible, consulta la [guía de extensiones](EXTENSIONS.md) (en inglés).
+Si el Marketplace no está disponible, consulta la [guía de extensiones en español](EXTENSIONS.es.md).
 
 ---
 
